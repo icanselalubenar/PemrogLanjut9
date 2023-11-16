@@ -1,0 +1,11 @@
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\bin\Debug\Calculator Delegate dan Event.exe.config
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\bin\Debug\Calculator Delegate dan Event.exe
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\bin\Debug\Calculator Delegate dan Event.pdb
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator Delegate dan Event.csprojAssemblyReference.cache
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator_Delegate_dan_Event.Form1.resources
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator_Delegate_dan_Event.Properties.Resources.resources
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator Delegate dan Event.csproj.GenerateResource.cache
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator Delegate dan Event.csproj.CoreCompileInputs.cache
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator Delegate dan Event.exe
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator Delegate dan Event.pdb
+E:\22.11.4824\Pertemuan09\Calculator\Calculator Delegate dan Event\obj\Debug\Calculator_Delegate_dan_Event.Form2.resources
